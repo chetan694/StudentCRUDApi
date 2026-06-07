@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|c:\\users\\chetan khajuria\\source\\repos\\studentcrudapi\\studentcrudapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|solutionrelative:studentcrudapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Migrations\\20260607170306_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentCrudApi\\Migrations\\20260607170306_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|c:\\users\\chetan khajuria\\source\\repos\\studentcrudapi\\studentcrudapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|solutionrelative:studentcrudapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|c:\\users\\chetan khajuria\\source\\repos\\studentcrudapi\\studentcrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|solutionrelative:studentcrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|c:\\users\\chetan khajuria\\source\\repos\\studentcrudapi\\studentcrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|solutionrelative:studentcrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|c:\\users\\chetan khajuria\\source\\repos\\studentcrudapi\\studentcrudapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB4F4B8-E5B7-47F2-A550-D37CA4EFC393}|StudentCrudApi\\StudentCrudApi.csproj|solutionrelative:studentcrudapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260607170306_dbinit.cs",
+              "DocumentMoniker": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Migrations\\20260607170306_dbinit.cs",
+              "RelativeDocumentMoniker": "StudentCrudApi\\Migrations\\20260607170306_dbinit.cs",
+              "ToolTip": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Migrations\\20260607170306_dbinit.cs",
+              "RelativeToolTip": "StudentCrudApi\\Migrations\\20260607170306_dbinit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T17:03:06.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentCrudApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentCrudApi\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:55:00.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentCrudApi\\Program.cs",
+              "ToolTip": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Program.cs",
+              "RelativeToolTip": "StudentCrudApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:50:44.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentCrudApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\appsettings.json",
+              "RelativeToolTip": "StudentCrudApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T16:50:05.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentCrudApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentCrudApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:45:53.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCrudApi\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\CHETAN KHAJURIA\\source\\repos\\StudentCrudApi\\StudentCrudApi\\Model\\Student.cs",
+              "RelativeToolTip": "StudentCrudApi\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T16:44:58.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
