@@ -73,7 +73,6 @@ namespace StudentCrudApi.Controllers
 
             _context.Students.Remove(student);
             await _context.SaveChangesAsync();
-
             return Ok(new
             {
                 message = "Student Deleted Successfully"
